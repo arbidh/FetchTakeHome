@@ -2,6 +2,7 @@
 
 ## Overview
 This project includes a video showcasing the app’s highlights and features, along with an overview diagram.
+Images included below video included in the project
 
 ## Overall Flow
 The architecture ensures **scalability**, **testability**, and **efficient resource management**.
@@ -87,3 +88,21 @@ I prioritized the following aspects in the `RecipeListView`:
 ## Additional Information
 - Created **unit tests** for API, `DataService`, and ViewModels.
 - Followed **SOLID principles** and **Dependency Injection (DI)** using `StateObject`.
+
+  
+<p align="center">
+<img src="https://github.com/user-attachments/assets/b3c40965-5312-49a7-a211-9ad324938f4d" alt="MainScreen" width="200">
+<img src="https://github.com/user-attachments/assets/8393d391-1814-4555-9fb8-00eb5a50e54c" alt="Categories" width="200">
+<img src="https://github.com/user-attachments/assets/83423e63-359c-4109-8e48-537c25ef12f0" alt="Categories Filtering" width="200">
+<img src="https://github.com/user-attachments/assets/a0b2033d-a462-4844-b94b-621d83dc26af" alt="Search" width="200">
+<img src="https://github.com/user-attachments/assets//bec92465-c817-4c28-8903-479fda72dfce" alt="DetailScreen" width ="200">
+<img src="https://github.com/user-attachments/assets//e39ec412-d8b0-468a-bb96-07b46427bb59" alt="FavoritesView" width ="200">
+<img src="https://github.com/user-attachments/assets/d1de1bf6-b375-4cd2-bf1d-3a2fdfd3bcae" alt="favoritesToggle" width ="300">
+<img src="https://github.com/user-attachments/assets/03a5ef2b-aa64-4ffc-b572-81aa39d47ea1" alt="video" width ="300">
+<img src="https://github.com/user-attachments/assets/e96a33ab-c207-4622-b2d3-23721bc0be75" alt="Landscape" width ="400">
+</p> 
+
+
+
+
+
