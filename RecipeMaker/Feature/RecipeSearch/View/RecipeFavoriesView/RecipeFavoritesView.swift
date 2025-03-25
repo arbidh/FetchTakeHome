@@ -21,7 +21,7 @@ struct FavoritesView: View {
     let alertButtonText: String = "OK"
     
     var body: some View {
-        NavigationView {
+        NavigationStack {
             List {
                 ForEach(viewModel.favoriteRecipes, id: \.self) { recipe in
                     HStack {
