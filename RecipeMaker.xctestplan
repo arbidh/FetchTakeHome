@@ -1,0 +1,37 @@
+{
+  "configurations" : [
+    {
+      "id" : "D4D2CA42-14E6-4735-B078-F63988832D22",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:RecipeMaker.xcodeproj",
+      "identifier" : "6448D82A2D922C00009D9A59",
+      "name" : "RecipeMaker"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:RecipeMaker.xcodeproj",
+        "identifier" : "6448D83A2D922C02009D9A59",
+        "name" : "RecipeMakerTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:RecipeMaker.xcodeproj",
+        "identifier" : "6448D8442D922C02009D9A59",
+        "name" : "RecipeMakerUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
